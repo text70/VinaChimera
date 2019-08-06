@@ -8,7 +8,7 @@ Conda environment: ( [Miniconda](https://docs.conda.io/en/latest/miniconda.html#
 
 [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/download.html): Dowload the installer of your choice and follow the directions.
 
-[Tangram](https://github.com/insilichem/tangram): a python environment for interactive extensions with other molecular modeling suites. Also see the Tangram_setup document for help activating the conda-env.
+[Tangram](https://github.com/insilichem/tangram): a python environment for interactive extensions with other molecular modeling suites. Also see the Tangram_setup document for help activating the ```conda-env tangram```.
 
 [AutoDock Vina](http://vina.scripps.edu/index.html): faster than Autodock and can be run locally on most modern multicore CPUs.
 
