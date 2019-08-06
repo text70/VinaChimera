@@ -1,17 +1,17 @@
-for NCIPlot
+//Installation of Tangram Environment for use with Chimera
 
 install Tangram env  https://github.com/insilichem/tangram
 
-conda create -n tangram -c insilichem/label/dev -c insilichem -c omnia -c rdkit -c conda-forge tangram
+~$conda create -n tangram -c insilichem/label/dev -c insilichem -c omnia -c rdkit -c conda-forge tangram
 
-conda-env list
-conda-env tangram
-
-
-conda update tangram
+~$conda-env list
+~$conda-env tangram
 
 
-pychimera --gui
+~$conda update tangram
+
+
+~$pychimera --gui
 
 
 
