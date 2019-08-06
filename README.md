@@ -1,5 +1,5 @@
 # VinaChimera
-An extensible pipeline for molecular modeling and ligand docking.
+A pipeline for molecular modeling and ligand docking.
 
 Requirements:
 
