@@ -10,7 +10,7 @@ Conda environment: ( [Miniconda](https://docs.conda.io/en/latest/miniconda.html#
 
 [Tangram](https://github.com/insilichem/tangram): a python environment for interactive extensions with other molecular modeling suites. Also see the Tangram_setup document.
 
-[AutoDock Vina](http://vina.scripps.edu/index.html):
+[AutoDock Vina](http://vina.scripps.edu/index.html): faster than Autodock and can be run locally on most modern multicore CPUs.
 
 Open Babel: (make sure [wxWidgets](https://wiki.wxwidgets.org/Installing_and_configuring_under_Ubuntu) is up to date)```sudo snap install openbabel``` or ```sudo apt-get install openbabel```
 then run ```obgui``` for the [GUI](https://open-babel.readthedocs.io/en/latest/GUI/GUI.html)
