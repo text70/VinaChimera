@@ -1,7 +1,9 @@
 # VinaChimera
 A pipeline for molecular modeling and ligand docking.
 
-As of the release of ChimeraX, this may be outdated. 
+As of the release of ChimeraX, this may be outdated.   
+
+
 Requirements:
 
 Conda environment: ( [Miniconda](https://docs.conda.io/en/latest/miniconda.html#) is recomended)
